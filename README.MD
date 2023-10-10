@@ -16,7 +16,7 @@ This is a web application built with Spring Boot for the backend and React for t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sat-results-app.git
+   git clone https://github.com/coderchaubey/PrecizeBackend.git
 
 ### Usage
 # Access the application by navigating to http://localhost:3000 in your web browser.
